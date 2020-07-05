@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 511.99999 128"
+   height="128"
+   width="512"
+   sodipodi:docname="tab_focus.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="/home/qwerty/STK/newgui/skin/modern/button_focused.png"
+   inkscape:export-xdpi="243.5"
+   inkscape:export-ydpi="243.5">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="665"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="8.0318406"
+     inkscape:cx="454.78823"
+     inkscape:cy="126.96775"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(2.8959276,0,0,2.8548579,-8.5265807,-1100.4792)">
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       id="path823-3"
+       d="m 23.201172,114.80274 c -2.699365,4.3e-4 -3.075247,-0.21943 -3.833984,2.37111 l 9.300781,40.51951 c 1.245045,3.73511 1.272215,4.79238 3.833984,5.78907 H 186.23438 c 2.69936,-4.3e-4 3.07524,0.21943 3.83398,-2.3711 l 6.09883,-42.5195 c -1.10108,-3.89232 -0.42476,-2.04538 -3.23555,-3.78909 z"
+       transform="matrix(1,0,0,1.0000064,-16.422853,266.82393)" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#ff9d00;stroke:none;stroke-width:0.26458415px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       d="M 16.079655,426.22763 6.777569,385.70693 H 176.50849 l -6.69791,40.5207 z"
+       id="path823" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       style="fill:#febd55;stroke:none;stroke-width:0.26500082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1"
+       d="m 6.777569,385.70693 1.695507,3.65188 156.035414,-3.65188 z"
+       id="path842" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       style="fill:#ffad2a;stroke:none;stroke-width:0.26500082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1"
+       d="m 10.473077,389.35881 5.606578,36.86882 -9.302086,-40.5207 z"
+       id="path844" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       style="fill:#aa6800;stroke:none;stroke-width:0.26458415px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       d="M 16.079655,426.22763 H 169.81058 l -4.72694,-5.21654 z"
+       id="path846" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       style="fill:#d48200;stroke:none;stroke-width:0.26458415px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1"
+       d="m 165.08364,421.01109 11.42485,-35.30416 -6.69791,40.5207 z"
+       id="path848" />
+  </g>
+</svg>

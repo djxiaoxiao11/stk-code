@@ -91,44 +91,44 @@ all types of ttf.
 
 <element type="bottom-bar" common="y" image="bottom_bar.png" />
 
-<element type="achievement-message" image="achievement.png"
+<element type="achievement-message" image="achievement.svg"
       left_border="130" right_border="13" top_border="13" bottom_border="13"
       preserve_h_aspect_ratios="true" hborder_out_portion="0.3" vborder_out_portion="0"/>
 
-<element type="friend-message" image="friend.png"
+<element type="friend-message" image="friend.svg"
       left_border="130" right_border="13" top_border="13" bottom_border="13"
       preserve_h_aspect_ratios="true" hborder_out_portion="0" vborder_out_portion="0"/>
 
-<element type="error-message" image="error.png"
+<element type="error-message" image="error.svg"
       left_border="130" right_border="13" top_border="13" bottom_border="13"
       preserve_h_aspect_ratios="true" hborder_out_portion="0" vborder_out_portion="0"/>
 
-<element type="generic-message" image="generic.png"
+<element type="generic-message" image="generic.svg"
       left_border="130" right_border="13" top_border="13" bottom_border="13"
       preserve_h_aspect_ratios="true" hborder_out_portion="0" vborder_out_portion="0"/>
 
-<element type="button" state="neutral" image="button.png"
+<element type="button" state="neutral" image="button.svg"
       left_border="40" right_border="40" top_border="12" bottom_border="12"
       preserve_h_aspect_ratios="false" hborder_out_portion="0" vborder_out_portion="0"
       h_inner_padding="0.15" v_inner_padding="0.35"/>
 
-<element type="button" state="focused" image="button_focused.png"
+<element type="button" state="focused" image="button_focused.svg"
       left_border="40" right_border="40" top_border="12" bottom_border="12"
       preserve_h_aspect_ratios="false" hborder_out_portion="0" vborder_out_portion="0"
       h_inner_padding="0.15" v_inner_padding="0.35"/>
 
-<element type="button" state="deactivated" image="button_inactive.png"
+<element type="button" state="deactivated" image="button_inactive.svg"
       left_border="40" right_border="40" top_border="12" bottom_border="12"
       preserve_h_aspect_ratios="false" hborder_out_portion="0" vborder_out_portion="0"
       h_inner_padding="0.15" v_inner_padding="0.35"/>
 
 <!-- TODO : buttons could support 'pressed' state -->
 
-<element type="textbubble" state="neutral" image="textbubble.png"
+<element type="textbubble" state="neutral" image="textbubble.svg"
       left_border="13" right_border="13" top_border="13" bottom_border="13"
       hborder_out_portion="0.7" vborder_out_portion="0.3" />
 
-<element type="textbubble" state="focused" image="textbubble2.png"
+<element type="textbubble" state="focused" image="textbubble2.svg"
       left_border="13" right_border="13" top_border="13" bottom_border="13"
       hborder_out_portion="0.7" vborder_out_portion="0.3" />
 
@@ -136,38 +136,38 @@ all types of ttf.
       left_border="7" right_border="7" top_border="7" bottom_border="7"
       preserve_h_aspect_ratios="false" />
 
-<element type="progress" state="neutral" image="section.png"
+<element type="progress" state="neutral" image="section.svg"
       left_border="7" right_border="7" top_border="7" bottom_border="7"
       preserve_h_aspect_ratios="false" />
       
       
-<element type="tab" state="neutral" image="tab.png"
+<element type="tab" state="neutral" image="tab.svg"
       left_border="44" right_border="44" top_border="28" bottom_border="28"
       preserve_h_aspect_ratios="false" hborder_out_portion="0.0" vborder_out_portion="0.0"
       h_inner_padding="0" v_inner_padding="-12" h_margin="0" v_margin="0" />
       
-<element type="tab" state="focused" image="tab_focus.png"
+<element type="tab" state="focused" image="tab_focus.svg"
       left_border="44" right_border="44" top_border="28" bottom_border="28"
       preserve_h_aspect_ratios="false" hborder_out_portion="0.0" vborder_out_portion="0.0"
       h_inner_padding="0" v_inner_padding="-12" h_margin="0" v_margin="0" />
 
-<element type="tab" state="down" image="tab.png"
+<element type="tab" state="down" image="tab.svg"
       left_border="44" right_border="44" top_border="28" bottom_border="28"
       preserve_h_aspect_ratios="false" hborder_out_portion="0.0" vborder_out_portion="0.0"
       h_inner_padding="0" v_inner_padding="-12" h_margin="0" v_margin="0" />
 
 
-<element type="verticalTab" state="neutral" image="tab_vert.png"
+<element type="verticalTab" state="neutral" image="tab_vert.svg"
       left_border="45" right_border="45" top_border="28" bottom_border="28"
       hborder_out_portion="0.0" vborder_out_portion="0.0"
       h_inner_padding="0" v_inner_padding="-8" h_margin="0" v_margin="4" />
       
-<element type="verticalTab" state="focused" image="tab_vert_focus.png"
+<element type="verticalTab" state="focused" image="tab_vert_focus.svg"
       left_border="45" right_border="45" top_border="28" bottom_border="28"
       hborder_out_portion="0.0" vborder_out_portion="0.0"
       h_inner_padding="0" v_inner_padding="-8" h_margin="0" v_margin="4" />
 
-<element type="verticalTab" state="down" image="tab_vert.png"
+<element type="verticalTab" state="down" image="tab_vert.svg"
       left_border="45" right_border="45" top_border="28" bottom_border="28"
       hborder_out_portion="0.0" vborder_out_portion="0.0"
       h_inner_padding="0" v_inner_padding="-8" h_margin="0" v_margin="4" />
@@ -196,55 +196,55 @@ all types of ttf.
 <element type="selectionHalo" image="bubble.png"  />
 <element type="focusHalo" image="glass_iconhighlight_focus.png"  />
 
-<element type="spinner" state="neutral" image="spinner.png"
+<element type="spinner" state="neutral" image="spinner.svg"
     left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
 
-<element type="spinner" state="focused" image="spinner_focus.png"
+<element type="spinner" state="focused" image="spinner_focus.svg"
     left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
 
-<element type="spinner" state="deactivated" image="spinner_deactivated.png"
+<element type="spinner" state="deactivated" image="spinner_deactivated.svg"
     left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
 
 <!-- player name spinner color in multiplayer-->
-<element type="spinner1" state="neutral" image="spinner_red.png"
+<element type="spinner1" state="neutral" image="spinner_red.svg"
       left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
-<element type="spinner2" state="neutral" image="spinner_cyan.png"
+<element type="spinner2" state="neutral" image="spinner_cyan.svg"
       left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
-<element type="spinner3" state="neutral" image="spinner_green.png"
+<element type="spinner3" state="neutral" image="spinner_green.svg"
       left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
-<element type="spinner4" state="neutral" image="spinner_yellow.png"
+<element type="spinner4" state="neutral" image="spinner_yellow.svg"
       left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
-<element type="spinner5" state="neutral" image="spinner_pink.png"
+<element type="spinner5" state="neutral" image="spinner_pink.svg"
       left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
 
 <!-- This one is a bit special. Only area(s) LEFT and/or RIGHT will be rendered. They will be overlaid
      on top of the spinner's background -->
-<element type="spinner" state="down" image="spinner_down.png"
+<element type="spinner" state="down" image="spinner_down.svg"
     left_border="110" right_border="110" top_border="0" bottom_border="36"
     preserve_h_aspect_ratios="true" hborder_out_portion="0.0" />
 
 <!-- For checkboxes, no splitting into 9 areas is done; the image is just stretched -->
-<element type="checkbox" state="neutral+unchecked" image="checkbox.png"/>
-<element type="checkbox" state="neutral+checked" image="checkbox_checked.png"/>
-<element type="checkbox" state="focused+unchecked" image="checkbox_focus.png"/>
-<element type="checkbox" state="focused+checked" image="checkbox_checked_focus.png"/>
-<element type="checkbox" state="deactivated+unchecked" image="checkbox_deactivated.png"/>
-<element type="checkbox" state="deactivated+checked" image="checkbox_checked_deactivated.png"/>
+<element type="checkbox" state="neutral+unchecked" image="checkbox.svg"/>
+<element type="checkbox" state="neutral+checked" image="checkbox_checked.svg"/>
+<element type="checkbox" state="focused+unchecked" image="checkbox_focus.svg"/>
+<element type="checkbox" state="focused+checked" image="checkbox_checked_focus.svg"/>
+<element type="checkbox" state="deactivated+unchecked" image="checkbox_deactivated.svg"/>
+<element type="checkbox" state="deactivated+checked" image="checkbox_checked_deactivated.svg"/>
 
 <!-- are always in neutral state for now. No splitting into 9 areas is done; the image is just stretched.
      Note: the body of a guage is the same as for for spinners. -->
 <element type="gaugefill" image="spinner_fill.png" />
 
 <!-- Lists are always in neutral state for now -->
-<element type="list" image="section.png"
+<element type="list" image="section.svg"
     left_border="15" right_border="15" top_border="7" bottom_border="7"
     hborder_out_portion="0.0" vborder_out_portion="0.0" />
     
@@ -256,46 +256,46 @@ all types of ttf.
      The buttons are the top and bottom arrows. Image must be top arrow, will
      be mirrorred for bottom. Buttons can be in neutral or down state.
      Advanced stretching is only used for the background and thumb. -->
-<element type="scrollbar_background"          image="scrollbar_bg.png"
+<element type="scrollbar_background"          image="scrollbar_bg.svg"
     left_border="7" right_border="7" top_border="7" bottom_border="7"
     hborder_out_portion="0.0" vborder_out_portion="0.0" />
-<element type="scrollbar_thumb"               image="scrollbar_thumb.png"
+<element type="scrollbar_thumb"               image="scrollbar_thumb.svg"
     left_border="7" right_border="7" top_border="7" bottom_border="7"
     hborder_out_portion="0.0" vborder_out_portion="0.0" />
-<element type="scrollbar_button"              image="scrollbar_button.png" />
-<element type="scrollbar_button" state="down" image="scrollbar_button.png" />
+<element type="scrollbar_button"              image="scrollbar_button.svg" />
+<element type="scrollbar_button" state="down" image="scrollbar_button.svg" />
 
-<element type="left_arrow"  state="neutral" image="left_arrow.png" />
-<element type="right_arrow" state="neutral" image="right_arrow.png" />
-<element type="left_arrow"  state="focus"   image="left_arrow_focus.png" />
-<element type="right_arrow" state="focus"   image="right_arrow_focus.png" />
+<element type="left_arrow"  state="neutral" image="left_arrow.svg" />
+<element type="right_arrow" state="neutral" image="right_arrow.svg" />
+<element type="left_arrow"  state="focus"   image="left_arrow_focus.svg" />
+<element type="right_arrow" state="focus"   image="right_arrow_focus.svg" />
 
 <element type="list_header"  state="neutral" image="table_header.png" />
-<element type="list_sort_up" state="neutral" image="up_arrow.png" />
-<element type="list_sort_down" state="neutral" image="down_arrow.png" />
+<element type="list_sort_up" state="neutral" image="up_arrow.svg" />
+<element type="list_sort_down" state="neutral" image="down_arrow.svg" />
 <element type="list_header"  state="down"    image="table_header_down.png" />
 
 <!-- Stateless -->
-<element type="section" image="section.png"
+<element type="section" image="section.svg"
       left_border="15" right_border="15" top_border="15" bottom_border="15"
       hborder_out_portion="0.0" vborder_out_portion="0.0" />
 
-<element type="section" state="selected" image="section.png"
-      left_border="15" right_border="15" top_border="15" bottom_border="15"
-      hborder_out_portion="0.0" vborder_out_portion="0.0" />
-
-<!-- Stateless -->
-<element type="rounded_section" image="rsection.png"
+<element type="section" state="selected" image="section.svg"
       left_border="15" right_border="15" top_border="15" bottom_border="15"
       hborder_out_portion="0.0" vborder_out_portion="0.0" />
 
 <!-- Stateless -->
-<element type="window" image="dialog.png"
+<element type="rounded_section" image="rsection.svg"
+      left_border="15" right_border="15" top_border="15" bottom_border="15"
+      hborder_out_portion="0.0" vborder_out_portion="0.0" />
+
+<!-- Stateless -->
+<element type="window" image="dialog.svg"
       left_border="32" right_border="32" top_border="32" bottom_border="32"
       hborder_out_portion="1.0" vborder_out_portion="1.0" />
 
 <!-- Stateless -->
-<element type="tooltip" image="tooltip.png"
+<element type="tooltip" image="tooltip.svg"
     left_border="10" right_border="10" top_border="10" bottom_border="10"
     hborder_out_portion="1.5" vborder_out_portion="1.0" />
     
@@ -335,7 +335,7 @@ all types of ttf.
 <color type="text_field" state="deactivated" a="255" r="138" g="138" b="138" />
 
 <!-- Rating star image -->
-<element type="rating" state="neutral" image="rating_star.png" />
+<element type="rating" state="neutral" image="rating_star.svg" />
 
 <!-- Font color -->
 <color type="font" state="top" a="255" r="255" g="128" b="0" />
